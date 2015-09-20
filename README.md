@@ -30,7 +30,7 @@ definitions, ``jsonmapping`` is used.
 
 ## Tests
 
-The test suite will usually be executed in it's own ``virtualenv`` and perform a
+The test suite will usually be executed in its own ``virtualenv`` and perform a
 coverage check as well as the tests. To execute on a system with ``virtualenv``
 and ``make`` installed, type:
 
